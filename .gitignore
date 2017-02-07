@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+vcs.xml
 # C extensions
 *.so
 
